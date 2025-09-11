@@ -1,0 +1,1 @@
+This project aims to create a secure password generator using Python. The program will generate random passwords with a combination of letters (uppercase and lowercase), numbers, and symbols, to the user's desired length.
